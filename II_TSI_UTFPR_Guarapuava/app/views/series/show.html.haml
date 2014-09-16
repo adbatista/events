@@ -1,0 +1,10 @@
+%p#notice= notice
+%p
+  %strong Title:
+  = @series.title
+%p
+  %strong Description:
+  = @series.description
+= link_to 'Edit', edit_series_path(@series)
+|
+\#{link_to 'Back', series_index_path}

@@ -1,0 +1,17 @@
+class Calc
+  def self.soma(valor_1, valor_2)
+    valor_1 + valor_2
+  end
+
+  def self.divide(valor_1, valor_2)
+    valor_1 / valor_2 rescue 0
+  end
+
+  def self.subtrai(valor_1, valor_2)
+    valor_1 - valor_2
+  end
+
+  def self.multiplica(valor_1, valor_2)
+    valor_1 * valor_2
+  end
+end

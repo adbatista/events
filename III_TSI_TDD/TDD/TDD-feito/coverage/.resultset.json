@@ -1,0 +1,62 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/alessandro/tdd/lib/calc.rb": [
+        1,
+        1,
+        2,
+        null,
+        null,
+        1,
+        3,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null
+      ],
+      "/home/alessandro/tdd/spec/planilha_spec.rb": [
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/home/alessandro/tdd/lib/planilha.rb": [
+        1,
+        1,
+        2,
+        null,
+        null,
+        1,
+        2,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1411778659
+  }
+}
